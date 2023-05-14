@@ -1,4 +1,4 @@
-# Anime Favorites
+# Favorite Anime
 
 Bem-vindo ao nosso site Anime Favorites, dedicado aos animes mais populares de todos os tempos - Dragon Ball, Naruto e Inuyasha! Aqui, você encontrará informações detalhadas sobre cada um desses incríveis animes, bem como notícias atualizadas, curiosidades, vídeos e muito mais.
 
