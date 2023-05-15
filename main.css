@@ -146,3 +146,10 @@ footer {
 .endereco {
     margin-top: 340px;
 }
+
+@media screen and (max-width: 768px) {
+    * {
+        width: 100%;
+        flex-direction: column;
+    }
+}
